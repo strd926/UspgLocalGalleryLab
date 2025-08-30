@@ -1,4 +1,4 @@
-**INTEGRANTES
+##INTEGRANTES
 -Marlon Estuardo Pappa Hernandez
 -Jonathan Javier Soberanis Castillo
 -Adolfo Gustavo Ortiz
